@@ -51,7 +51,7 @@ body, html { height: 100%; -moz-osx-font-smoothing: grayscale;}
 a, a:active, a:focus { color: #6f6f6f; text-decoration: none; }
 a:hover, a:active{color: #663A82; text-decoration: none;}
 a:focus, a:active, button:focus, button:active,.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {outline: none; box-shadow: none; }
-img {max-width:286px; height:auto; }
+img {max-width:291px; height:auto; }
 video { background-size: cover; display: table-cell; vertical-align: middle; width: 100%; }
 input, textarea, select{ border: 1px solid #d1d1d1; font-size: 14px;  padding: 8px 15px; width: 100%; margin: 0 0 20px 0; max-width: 100%; resize: none; color: inherit;}
 input[type="submit"] { width: auto}
@@ -3565,7 +3565,7 @@ figure{ margin: 0; }
 .blog-image a > img {width: 100%}
 
 /* blog post style 1 */
-.blog-post.blog-post-style1 .blog-post-images {background: #232323}
+.blog-post.blog-post-style1 .blog-post-images {background: ;}
 .blog-post.blog-post-style1 .blog-post-images img {width: 100%;}
 .blog-post.blog-post-style1:hover .blog-post-images img {opacity: 0.5; transform: scale(1.2, 1.2); transition: all 0.3s ease 0s;}
 

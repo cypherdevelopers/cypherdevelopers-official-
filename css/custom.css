@@ -741,15 +741,15 @@ header nav .navbar-nav > li > a {
 }
 @media only screen and (min-width:320px) and (max-width:480px){
     .section1-background{
-    background-image:url("images/cor-banner2-mob.jpg") !important;
+    background-image:url("/mages/cor-banner2-mob.jpg") !important;
     background-repeat: no-repeat;
     background-size:contain; 
 }
 .section1-background2{
-    background-image:url("images/cor-banner-mob.jpg") !important;
+    background-image:url("/images/cor-banner-mob.jpg") !important;
 }
 .section1-background3{
-    background-image:url("images/cor-banner3-mob.jpg") !important;
+    background-image:url("/images/cor-banner3-mob.jpg") !important;
 }
 .alert:before {
     position: absolute;

@@ -50,7 +50,7 @@ body, html { height: 100%; -moz-osx-font-smoothing: grayscale;}
 
 
 .blogimg{
-    height: 200px;
+    height: 600px;
 }
 
 a, a:active, a:focus { color: #6f6f6f; text-decoration: none; }

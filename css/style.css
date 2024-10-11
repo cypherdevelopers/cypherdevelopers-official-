@@ -49,6 +49,12 @@ body{ font-family: 'Poppins', sans-serif; -webkit-font-smoothing: antialiased;  
 body, html { height: 100%; -moz-osx-font-smoothing: grayscale;}
 
 
+.brandingid{
+   max-width: 100%;
+   height: auto;
+}
+
+
 a, a:active, a:focus { color: #6f6f6f; text-decoration: none; }
 a:hover, a:active{color: #663A82; text-decoration: none;}
 a:focus, a:active, button:focus, button:active,.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {outline: none; box-shadow: none; }

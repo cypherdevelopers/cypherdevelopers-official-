@@ -1,20 +1,20 @@
 .section1-background{
-	background-image:url("/images/Banner-5-n.jpg") !important;
+	background-image:url("../images/Banner-5-n.jpg") !important;
      background-size: cover !important; 
     background-position: center !important;
 }
 .section1-background2{
-	background-image:url("/images/Banner-4-n.jpg") !important;
+	background-image:url("../images/Banner-4-n.jpg") !important;
     background-size: cover !important; 
     background-position: center !important;
 }
 .section1-background3{
-	background-image:url("/images/Banner-6-n.jpg") !important;
+	background-image:url("../images/Banner-6-n.jpg") !important;
      background-size: cover !important; 
     background-position: center !important;
 }
 .section2-background {
-    background-image: url("/images/beautiful-banner.jpg");
+    background-image: url("../images/beautiful-banner.jpg");
 }
 .padding-all{
 	padding: 7% 0 !important;
@@ -26,43 +26,43 @@
     margin-top: 50px;
 }
 .parallax{
-	background-image:url("/images/bg.jpg") !important;
+	background-image:url("../images/bg.jpg") !important;
 }
 .digital{
-	background-image:url("/images/digital-prod.jpg") !important;
+	background-image:url("../images/digital-prod.jpg") !important;
 }
 .mob-app{
-    background-image:url("/images/mob-app.jpg") !important;
+    background-image:url("../images/mob-app.jpg") !important;
 }
 .brand-dig{
-	background-image:url("/images/brand-dig.jpg") !important;
+	background-image:url("../images/brand-dig.jpg") !important;
 }
 .progress-bar-dig{
-    background-image:url("/images/skill.jpg") !important;
+    background-image:url("../images/skill.jpg") !important;
 }
 .about-banner{
-	background-image:url("/images/about-banner.jpg") !important;
+	background-image:url("../images/about-banner.jpg") !important;
 }
 .services-banner{
-	background-image:url("/images/services-banner.jpg") !important;
+	background-image:url("../images/services-banner.jpg") !important;
 }
 .creative-banner{
-	background-image:url("/images/creative-banner.jpg") !important;
+	background-image:url("../images/creative-banner.jpg") !important;
 }
 .digital-banner{
-	background-image:url("/images/digital-exp.jpg") !important;
+	background-image:url("../images/digital-exp.jpg") !important;
 }
 .busniess-branding {
-    background-image: url("/images/busniess-branding.jpg") !important;
+    background-image: url("../images/busniess-branding.jpg") !important;
 }
 .graphic-des{
-    background-image: url("/images/graphic-des.jpg") !important;
+    background-image: url("../images/graphic-des.jpg") !important;
 }
 .web-development {
-    background-image: url("/images/development.jpg") !important;
+    background-image: url("../images/development.jpg") !important;
 }
 .digital-mar{
-    background-image: url("/images/cdigital-mar.jpg") !important;
+    background-image: url("../images/cdigital-mar.jpg") !important;
 }
 .pt18{
 	    padding-top: 18px !important;
